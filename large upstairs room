@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Autoplay Audio</title>
+</head>
+<body>
+    <h1>Your Audio is Playing 🎵</h1>
+    <audio autoplay controls>
+        <source src="https://raw.githubusercontent.com/HomeGirl828/audio-autoplay/main/Large%20upstairs%20room.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+</body>
+</html>
